@@ -13,8 +13,8 @@ Aplikasi manajemen GYM (Native Android) yang dibangun menggunakan Kotlin dan Jet
 - **Konfigurasi Firebase**: Sinkronisasi data real-time dengan Firebase Realtime Database.
 
 ## Screenshot
-<img src="https://github.com/user-attachments/assets/e45d2be7-1692-4b93-85da-7b6962d94d75" width="200" height="auto" alt="Deskripsi Gambar">
 <img src="https://github.com/user-attachments/assets/f4e4ba2d-06da-4b4b-b776-6e3e09210c05" width="200" height="auto" alt="Deskripsi Gambar">
+<img src="https://github.com/user-attachments/assets/e45d2be7-1692-4b93-85da-7b6962d94d75" width="200" height="auto" alt="Deskripsi Gambar">
 <img src="https://github.com/user-attachments/assets/b0c35d9e-a84e-42b3-8079-63cbb4ecb608" width="200" height="auto" alt="Deskripsi Gambar">
 <img src="https://github.com/user-attachments/assets/b377dde4-5e21-4c16-8c3e-24cdcb8da220" width="200" height="auto" alt="Deskripsi Gambar">
 <img src="https://github.com/user-attachments/assets/bdb7b402-ef08-4fe2-a5e3-6f71fd351c40" width="200" height="auto" alt="Deskripsi Gambar">
