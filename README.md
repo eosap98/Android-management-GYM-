@@ -25,6 +25,9 @@ Aplikasi manajemen GYM (Native Android) yang dibangun menggunakan Kotlin dan Jet
   - iText7 (untuk ekspor PDF)
 
 
+Download Aplikasi [Klik disini](https://github.com/eosap98/Android-management-GYM-/releases/download/V1.0/gymkuApp.apk)
+
+
 ## Struktur Project
 
 - `app/src/main/java/com/gymku/app/data`: Model data dan repositori.
